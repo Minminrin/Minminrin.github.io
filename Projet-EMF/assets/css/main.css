@@ -147,13 +147,6 @@ input, select, textarea {
 		line-height: 1.65;
 	}
 
-	.container{
-		width: 80%;
-		min-width: 400px;
-		max-width: 800px;
-		margin: 0 auto;
-	}
-
 	a {
 		-moz-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		-webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
